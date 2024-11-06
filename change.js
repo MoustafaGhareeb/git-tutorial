@@ -1,0 +1,1 @@
+console.log(`change.js added to version 3`);
